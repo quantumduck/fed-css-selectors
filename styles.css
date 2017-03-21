@@ -31,3 +31,8 @@ header {
 #item2 {
   text-align: right;
 }
+
+#advanced-selectors ol > li {
+  padding: 10%;
+  background-color: grey;
+}
