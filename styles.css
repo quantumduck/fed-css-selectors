@@ -11,3 +11,15 @@ h1, h2 {
 header {
   border-bottom-style: dotted;
 }
+
+.class-list {
+  list-style-type: square;
+}
+
+.item {
+  border: 1px dashed fuchsia;
+}
+
+.even {
+  background-color: grey;
+}
